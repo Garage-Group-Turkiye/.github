@@ -10,7 +10,7 @@ Gayrimenkul ve teknoloji alanında ürün geliştiren startup ekibi. İstanbul m
 | [WorldClock.info](https://worldclock.info) | Canlı dünya saati ve 3D interaktif yerküre | Aktif |
 | [Plus.tv](https://plus.tv) | TV yayın platformu | Aktif |
 | [Sortify.com](https://sortify.com) | Sıralama ve organizasyon uygulaması | Aktif |
-| [SpörSayfası](https://sporsayfasi.com) | Spor haberleri platformu | Aktif |
+| [SporSayfası](https://sporsayfasi.com) | Spor haberleri platformu | Aktif |
 | Sortify iOS | Mobil uygulama | Yakında |
 
 ## İletişim
